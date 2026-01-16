@@ -14,8 +14,6 @@ necessary for running and interacting with the Nomos blockchain. Key features in
 
 ## Table of Contents
 
-## Table of Contents
-
 - [Nomos](#nomos)
   - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
