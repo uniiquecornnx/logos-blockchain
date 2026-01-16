@@ -406,6 +406,6 @@ See [LICENSE-APACHE2.0](LICENSE-APACHE2.0) and [LICENSE-MIT](LICENSE-MIT) for de
 ## Community
 
 Join the Nomos community on [Discord](https://discord.gg/8Q7Q7vz) and follow us
-on [Twitter](https://twitter.com/nomos_tech).
+on [X](https://twitter.com/nomos_tech).
 
 For more information, visit [nomos.tech](https://nomos.tech/?utm_source=chatgpt.com).
